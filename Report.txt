@@ -1,0 +1,35 @@
+### Meio 0 ###
+-Mu em 1/min (matematico): 0.024, (modelo exponencial): 0.024;
+-Tg em min (matematico): 28.2, (modelo exponencial): 28.1;
+-Ajuste R_quadrado: 0.999
+
+### Meio 1 ###
+-Mu em 1/min (matematico): 0.023, (modelo exponencial): 0.022;
+-Tg em min (matematico): 30.1, (modelo exponencial): 30.2;
+-Ajuste R_quadrado: 0.999
+
+### Meio 2 ###
+-Mu em 1/min (matematico): 0.017, (modelo exponencial): 0.017;
+-Tg em min (matematico): 40.1, (modelo exponencial): 40.2;
+-Ajuste R_quadrado: 0.999
+
+### Meio 3 ###
+-Mu em 1/min (matematico): 0.018, (modelo exponencial): 0.018;
+-Tg em min (matematico): 37.6, (modelo exponencial): 37.3;
+-Ajuste R_quadrado: 0.999
+
+### Meio 4 ###
+-Mu em 1/min (matematico): 0.018, (modelo exponencial): 0.018;
+-Tg em min (matematico): 36.6, (modelo exponencial): 36.7;
+-Ajuste R_quadrado: 0.998
+
+### Meio 5 ###
+-Mu em 1/min (matematico): 0.017, (modelo exponencial): 0.017;
+-Tg em min (matematico): 39.2, (modelo exponencial): 39.0;
+-Ajuste R_quadrado: 0.999
+
+### Meio 6 ###
+-Mu em 1/min (matematico): 0.034, (modelo exponencial): 0.034;
+-Tg em min (matematico): 20.1, (modelo exponencial): 20.0;
+-Ajuste R_quadrado: 0.999
+
